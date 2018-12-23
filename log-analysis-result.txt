@@ -1,15 +1,12 @@
 What are the most popular three articles of all time?
-
-('Candidate is jerk, alleges rival', 'Title', ' -- ', '338647', 'views')
-('Bears love berries, alleges bear', 'Title', ' -- ', '253801', 'views')
-('Bad things gone, say good people', 'Title', ' -- ', '170098', 'views')
+Candidate is jerk, alleges rival -- 338647 views
+Bears love berries, alleges bear -- 253801 views
+Bad things gone, say good people -- 170098 views
 
 Who are the most popular three article authors of all time?
-
-('Rudolf von Treppenwitz', 'Name', ' -- ', 'candidate-is-jerk', 'Slug', ' -- ', '338647', 'views')
-('Ursula La Multa', 'Name', ' -- ', 'bears-love-berries', 'Slug', ' -- ', '253801', 'views')
-('Anonymous Contributor', 'Name', ' -- ', 'bad-things-gone', 'Slug', ' -- ', '170098', 'views')
+Ursula La Multa -- 507594 views
+Rudolf von Treppenwitz -- 423457 views
+Anonymous Contributor -- 170098 views
 
 On which days more than 1% of requests lead to errors?
-
-('2016-07-17', 'Day', ' -- ', '2.26', 'Percent')
+Jul-17,2016 -- 2.26 % errors
